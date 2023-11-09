@@ -6,10 +6,12 @@
 
 ## Technologies
 - XML
+- Dagger-Hilt
 - Room
 - LiveData
 - MVVM
 - RxJava2
+- Fragment
 - RecyclerView
 - ViewBinding
 - DataBinding
